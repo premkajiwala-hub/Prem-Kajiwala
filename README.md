@@ -4,8 +4,6 @@ Software engineer and co-founder of [The Nerds](https://www.thenerds.dev), a web
 
 I build systems meant to hold up outside the demo: AI that answers from evidence or not at all, ledgers that stay consistent under concurrent writes, and interfaces people actually enjoy using. I care most about the parts nobody notices until they break.
 
-[thenerds.dev](https://www.thenerds.dev) · [premkajiwala@gmail.com](mailto:premkajiwala@gmail.com)
-
 ## Currently
 
 - Client work at The Nerds: web platforms, AI tooling and workflow automation.
